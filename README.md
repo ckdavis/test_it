@@ -3,4 +3,4 @@
 1. step 1
 2. step 2
 3. step 3
-6. step 6
+4. step 4
